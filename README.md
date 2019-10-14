@@ -11,4 +11,5 @@ Types of password:
 -strong
  
  Screenshot example:
+
 ![Screenshot](Screenshot.png)
